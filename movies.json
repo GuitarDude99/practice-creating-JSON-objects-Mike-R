@@ -1,0 +1,25 @@
+
+{
+"Title": "The Batman",
+"Released": 2022,
+"Available": true,
+"Genres":["Superhero", "Action", "Mystery"],
+"Cast": [
+    {
+    "Name": "Robert Pattinson",
+    "Role": "Lead"
+    },
+    {
+    "Name": "Zoe Kravitz",
+    "Role": "Supporting"
+    },
+    {
+     "Name": "Colin Farrel",
+     "Role": "Supporting"
+    },
+    {
+    "Name":"Jeffrey Wright",
+    "Role":"Supporting"
+    }
+]
+}
